@@ -1,3 +1,7 @@
 export default function Home(){
-  ret
+  return(
+    <div>
+      <h1 style={{textAlign:"center",margin:"300px", textShadow:" 2px 2px 4px red"}}>Hello World</h1>
+    </div>
+  )
 }
